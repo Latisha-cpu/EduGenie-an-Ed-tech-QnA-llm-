@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain import get_qa_chain, create_vector_db
+from langchain_helper import get_qa_chain, create_vector_db
 
 st.title("EduGenie🤖")
 
