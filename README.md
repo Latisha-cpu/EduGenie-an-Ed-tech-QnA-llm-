@@ -22,7 +22,14 @@ This is a comprehensive LLM project utilizing Google Palm and Langchain. Basical
 4)FAISS: Vector database
 
 # Usage- 
-Run the Streamlit app by executing:
+
+1)Locate to the path of your directory in your command prompt.For example - cd  C:\Users\LATISHA\Downloads\EduGenie
+
+2)Set GOOGLE_API_KEY=your_api_key
+
+3)Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+   
+4)Run the Streamlit app by executing:
 streamlit run main.py
 
 # Sample Questions-
