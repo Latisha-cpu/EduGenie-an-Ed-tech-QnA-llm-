@@ -41,6 +41,6 @@ what about placement assistance?
 
 2)langchain_helper.py: This has all the langchain code
 
-3) requirements.txt: A list of required Python packages for the project.
+3)requirements.txt: A list of required Python packages for the project.
 
 4).env: Configuration file for storing your Google API key.
