@@ -1,5 +1,5 @@
 # EduGenie: an-Ed-tech QnA llm based system 
-This is a comprehensive LLM project utilizing Google Palm and Langchain. Developed a Q&A system for an ed-tech company that offers data-related courses and bootcamps. With thousands of learners reaching out via Discord or email, this system will feature a Streamlit-based user interface allowing students to ask questions and receive answers.
+This is a comprehensive LLM project utilizing Google Palm and Langchain. Basically, a Q&A system for an ed-tech company that offers data-related courses and bootcamps. With thousands of learners reaching out via Discord or email, this system will feature a Streamlit-based user interface allowing students to ask questions and receive answers.
 
 # Project Highlights-
 
